@@ -4,6 +4,7 @@
 
 * Gradle
 * SpringMVC 4.2.2
+* Thymeleaf 2.1.4
 
 ## Build 
 
