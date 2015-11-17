@@ -3,7 +3,12 @@
 ## Dependencies
 
 * Gradle
-* SpringMVC 4.2.2
+* SpringBoot 1.3.0
+* Thymeleaf 2.1.4
+
+## Running without tomcat
+
+`gradle bootRun`
 
 ## Build 
 
