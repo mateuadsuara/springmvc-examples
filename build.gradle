@@ -8,6 +8,7 @@ repositories {
 dependencies {
     compile("org.springframework:spring-context:4.2.2.RELEASE")
     compile("org.springframework:spring-webmvc:4.2.2.RELEASE")
+    compile("jstl:jstl:1.2")
 }
 
 war {
